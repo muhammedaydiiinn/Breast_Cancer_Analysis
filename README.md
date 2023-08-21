@@ -9,7 +9,7 @@ Bu proje, Kaggle'da yer alan "Breast Cancer" veri setini kullanarak yapay sinir 
 ## Kaggle Projesi Linki
 
 Kaggle projesine aşağıdaki linkten erişebilirsiniz:
-[Kaggle Projesi - Breast Cancer Prediction](https://www.kaggle.com/code/muhammedaydin/breast-cancer-prediction)
+[Kaggle Projesi - Breast Cancer Prediction](https://www.kaggle.com/code/muhammedaydin/code23-example)
 
 ## Kullanım
 
